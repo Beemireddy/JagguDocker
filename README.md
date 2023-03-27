@@ -1,4 +1,4 @@
-# .NET project template Fuck off
+# .NET project template Jaggu
 
 This is a template for creating .NET projects with compile-time code style checking, CI/CD workflows for Github Actions
 and Azure pipelines.
