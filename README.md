@@ -1,4 +1,4 @@
-# .NET project template
+# .NET project template Fuck off
 
 This is a template for creating .NET projects with compile-time code style checking, CI/CD workflows for Github Actions
 and Azure pipelines.
